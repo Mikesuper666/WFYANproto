@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Action
+  - Weapon
+  - LadderTrigger
+  - Enemy
+  - Dirt
+  - CompanionAI
+  - Collactable
+  - LookAt
+  - Metal
+  - PlayerUI
+  - Wood
+  - Glass
+  - ExitWater
+  - FreeClimb
+  - CoverPoint
+  - Interactable
+  - AIAction
+  - AutoCrouch
+  - Zipline
+  - Ragdoll
+  - Ignore Ragdoll
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - CompanionAI
+  - StopMove
+  - Triggers
+  - Action
+  - HeadTrack
+  - BodyPart
+  - BlockAIRayCast
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
